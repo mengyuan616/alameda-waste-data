@@ -14,10 +14,10 @@ I used 4 datasets from CalRecycle, the California Department of Resources Recycl
 ## Notebooks
 This repo contains two notebooks:
 
-### 1. download and clean.
+### 01-download and clean.
 I used this notebook to download and import selected columns of the 4 datasets, and exported 4 cleaned csv files.
 
-### 2. explore and analyze.
+### 02-explore and analyze.
 I used this notebook to explore the data and answered 5 specific questions:
 
 Q1: From 1990 to 2020, how many tons of garbage were landfilled in Alameda County each year?
