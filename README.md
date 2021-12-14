@@ -19,12 +19,9 @@ I used this notebook to download and import selected columns of the 4 datasets, 
 
 #### 2. explore and analyze.
 I used this notebook to explore the data and answered 5 specific questions:
+
 Q1: From 1990 to 2020, how many tons of garbage were landfilled in Alameda County each year?
-
 Q2: What were the major types of waste different business groups were producing in Alameda?
-
 Q3: What were the major types of residential waste in Alameda? 
-
 Q4: What is the proportion of waste disposed in Alameda in the whole state？
-
 Q5: How many waste management facilities were documented in Alameda? What's their status?
